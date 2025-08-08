@@ -1,6 +1,6 @@
 # ST7735 Menu System Library
 
-![Menu System Demo](https://github.com/kazakhan/ST7735_MenuSystem/blob/main/ST7735_Menu.jpg) 
+![Menu System Demo](/ST7735_Menu.jpg) 
 
 A hierarchical menu system for ST7735 displays with rotary encoder navigation. Perfect for Arduino projects needing a user interface.
 
@@ -55,3 +55,4 @@ A hierarchical menu system for ST7735 displays with rotary encoder navigation. P
     backItem->linkedPage = &mainMenu;
 
     settings.add(backItem);
+
